@@ -23,7 +23,7 @@
     "bignumber.js": "^9.1.1",
     "daisyui": "^2.46.0",
     "immer": "^9.0.16",
-    "next": "^12.3.3",
+    "next": "^14.2.3",
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^9.0.0",
     "react": "17.0.2",
